@@ -10,7 +10,7 @@ export const students = [
     id: 2,
     rollNo: 77036,
     name: "John Snow",
-    marks: 67,
+    marks: 76,
     gender: "Male",
   },
 ];
